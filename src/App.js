@@ -1,9 +1,9 @@
-import Navbar from "./components/navbar";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import Carousel from "./components/carousel";
-import Cards from "./components/cards";
+import Navbar from "./components/navbar";
 import HeroImage from "./components/hero";
+import Cards from "./components/cards";
+import Carousel from "./components/carousel";
 import Contact from "./components/contact";
 
 function App() {
