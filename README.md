@@ -43,7 +43,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="./src/images/appScreenshot.png" alt="Logo" width="300" height="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
