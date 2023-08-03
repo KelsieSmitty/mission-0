@@ -43,7 +43,7 @@
 
 ## About The Project
 
-<img src="./src/images/appScreenshot.png" alt="Logo" width="300" height="400">
+<img src="./src/images/appScreenshot.png" alt="Logo" width="600" height="400">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
